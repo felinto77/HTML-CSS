@@ -1,7 +1,7 @@
-PROJETO HTML/CSS P1
+PROJETO HTML/CSS 
 
 
--Esse projeto foi uma atividade na qual era nescessario fazer a copia de um site da ACME.
+-Esse projeto é uma copia de um dos websites da ACME.
 -Foi desenvolvido usando unicamente as tecnologias de HTML/CSS.
 
 
